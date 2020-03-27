@@ -1,10 +1,8 @@
 ## Idea
 # MedRec - Your Medical Record
-record of medication
-
 ...or a Medical Passport
 
-...An app that enables the sharing with the health pros
+An app that enables the sharing with the health pros
 store data (private* and public, emergency):
 name*:
   * age
@@ -15,7 +13,7 @@ name*:
   * drugs' dosage
   * prescription*+
   
-...monitoring data
+monitoring data
   * exams' results
   * temperature
   * diabetes
@@ -23,11 +21,11 @@ name*:
   * BPM
   * etc
 
-...display data:
+display data:
   * drugs start and end dates
   * refill needs
     
-...3 kinds of users:
+3 kinds of users:
   * person
   * person resposible
   * health op
