@@ -1,0 +1,29 @@
+*Personal
+nome
+nif
+DoB
+responsável médico
+responsável médico - contacto
+contacto de emergência
+contacto
+morada
+
+*Drugs
+medicamento
+posologia
+dosagem
+duração
+data início
+patologia
+responsável
+
+*Diagnois
+Descrição
+data
+local
+responsável
+
+*Exams
+Descrição
+data
+local
