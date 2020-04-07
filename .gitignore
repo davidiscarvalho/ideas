@@ -1,5 +1,5 @@
 #config/auth files
-.\\medPassport\\config.py
+.\\medPassport\\db_config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
