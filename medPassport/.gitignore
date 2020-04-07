@@ -1,0 +1,8 @@
+# Environments
+.venv
+
+# Folders
+__pycache__
+
+# credentials
+db_config.py
