@@ -7,6 +7,7 @@ responsável médico - contacto
 contacto de emergência
 contacto
 morada
+Medical Team
 
 *Drugs
 medicamento
@@ -27,3 +28,8 @@ responsável
 Descrição
 data
 local
+
+*Medical Team
+id
+doc_id
+site_id
